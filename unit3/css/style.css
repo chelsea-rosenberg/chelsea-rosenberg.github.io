@@ -1,4 +1,17 @@
-body {background-color:#4Eff4E}
+body {background-color:#ffffff}
 
-h1, p {color: #3A188D ;}
-p. { font-style: italic } 
+h1,p{ text-align: center}
+h1,p {border-image: black}
+h1 {font-size:50px;}
+h1, {font-weight: bold;}
+
+
+
+
+h1, p {color: #3A188D ; }
+
+p {
+  	font-family: "Book Antiqua", monospace; 
+  } 
+
+
