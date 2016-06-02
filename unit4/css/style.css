@@ -1,0 +1,81 @@
+
+@import url(https://fonts.googleapis.com/css?family=Abel);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Over+the+Rainbow);
+header {
+	background-color: #32BFAC;
+	padding: 25px;
+	color: #000000;
+	font-family: "Amatic SC", monospace; 
+	font-size: 100px;
+	font-style: bold;
+}
+
+
+body {
+	background-color:#ffffff;
+    text-align: center
+    }
+
+h1 {
+	color:#000000;
+	font-family:"Amatic SC", monospace;
+	font-weight:bolder;
+	font-size:50px;
+}
+
+h2,p {
+    margin:35px;
+    color:#000000;
+    font-family:Abel, monospace; 
+  	font-weight:normal;
+  }
+
+h1 {
+	color:#000000;
+	font-family: "Amatic SC", monospace;
+	font-weight:bold;
+	font-size:60px;
+}
+
+h2 {
+    font-style: oblique;
+    font-size:55px;
+    font-family: "Amatic SC", monospace;
+}
+
+
+p {
+	font-size: 20px;
+}
+
+
+img { 
+    width:100%;
+}
+
+ a{
+ 	color:#32BFAC;;
+ 	text-decoration: none;
+ }
+
+nav a {
+	font-size: 30px;
+	margin-right:20px; 
+	font-family: 'Amatic SC', cursive;
+	font-style: ;
+
+}
+
+footer { 
+background-color: #32BFAC;
+text-align: center;
+font-family: 'Amatic SC', cursive; }
+
+* {
+	padding:0;
+	margin:0;
+}
+
+
+
